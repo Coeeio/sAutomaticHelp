@@ -1,0 +1,7 @@
+name: sAutomaticHelp
+author: Coelho
+main: coelho.coelho.AutomaticHelp
+
+version: 1.0
+commands:
+    help:
